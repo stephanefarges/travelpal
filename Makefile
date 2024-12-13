@@ -1,0 +1,2 @@
+dev:
+	gowatch -p ./cmd/
